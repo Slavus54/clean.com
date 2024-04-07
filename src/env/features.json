@@ -1,0 +1,26 @@
+[
+    {
+        "title": "Account",
+        "content": "Settings of your profile. Publish architectural works and create components."
+    },
+    {
+        "title": "Projects",
+        "content": "Building with great architecture. Guess some interesting facts about."
+    },
+    {
+        "title": "Lectures",
+        "content": "Publish and find conspects from university and look on map with buildings."
+    },
+    {
+        "title": "Cleanings",
+        "content": "Organize meetings to catch difference trash. Share collected packets."
+    },
+    {
+        "title": "Rentals",
+        "content": "Share own story of rent house or flat. Find answer of interesting question by topics."
+    },
+    {
+        "title": "Profiles",
+        "content": "Users with architectural works to estimate and ability to connect via Telegram."
+    }
+]

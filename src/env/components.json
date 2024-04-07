@@ -1,0 +1,18 @@
+[
+    {
+        "title": "Project",
+        "path": "project"
+    },
+    {
+        "title": "Lecture",
+        "path": "lecture"
+    },
+    {
+        "title": "Cleaning",
+        "path": "cleaning"
+    },
+    {
+        "title": "Rental",
+        "path": "rental"
+    }
+]
