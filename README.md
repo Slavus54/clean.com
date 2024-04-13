@@ -20,6 +20,7 @@ DevOps: *None*.
 Caching *Towns API* and static files in *LocalStorage* and *serviceWorker*.        
 Dynamic web page titles based on menu items and type of component.      
 A lot of notifications with project's logo and limited duration of life based on *Notifications API*.       
+New *welcome page* cards appearance with *IntersectionObserver API*.   
 
 ### URL    
 
